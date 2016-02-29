@@ -1,0 +1,44 @@
+<style>
+#dummy {
+}
+#nav {
+  width:150px;
+  height:500px;
+  float:left;
+  background-color:white;
+  padding:10px;
+  text-align:center;
+}
+#section {
+  text-align:center;
+  height:500px;
+  width:600px;
+  padding:10px;
+  background-color:gray;
+  display:table;
+}
+#footer {
+  color:black;
+  font-family:verdana;
+  padding:10px;
+  background-color:white;
+  text-align:center;
+  width:770px;
+}
+#header {
+  text-align:center;
+  background-color:black;
+  color:white;
+  padding:10px;
+  font-size:250%;
+  width:770px;
+}
+
+.myBtn {
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+</style>
